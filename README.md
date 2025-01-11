@@ -1,4 +1,4 @@
-# strongSwan Configuration #
+# strongSwan Configuration is awesome
 
 ## Overview ##
 
